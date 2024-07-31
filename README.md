@@ -1,6 +1,6 @@
-# CampusLocater
+# Campus-Explorer
 
-CampusLocater is a React application that utilizes the Hipolabs Universities API to allow users to search for universities based on their interests. The application takes user input, fetches data from the API, and displays the results with a visually appealing user interface.
+Campus-Explorer is a React application that utilizes the Hipolabs Universities API to allow users to search for universities based on their interests. The application takes user input, fetches data from the API, and displays the results with a visually appealing user interface.
 
 ## Features
 
