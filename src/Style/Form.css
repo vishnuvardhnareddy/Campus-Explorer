@@ -1,0 +1,56 @@
+body {
+  width: 100vw;
+  background: #000;
+}
+.container {
+  box-sizing: border-box;
+  background-color: black;
+  width: 100vw;
+  margin: 8rem auto 1rem;
+  /* box-shadow: 0 0 5px rgb(54, 44, 44); */
+}
+
+.container h1 {
+  width: 18rem;
+  margin: 2.2rem auto;
+}
+.form {
+  margin: auto;
+  width: fit-content;
+  border: 2px solid gray;
+  background-color: rgb(15, 13, 13);
+  box-shadow: 0 0 30px rgb(92, 90, 90);
+  height: 20rem;
+}
+.box {
+  margin: 1rem 5rem;
+}
+.form label {
+  font-size: 1.3rem;
+}
+.form input,
+.form select {
+  font-size: 1.3rem;
+  /* display: block; */
+  appearance: none;
+  background-color: rgb(15, 13, 13);
+  border: none;
+  margin: 1rem 3rem;
+  width: 15rem;
+  border-bottom: 1px solid rgb(255, 255, 255);
+  color: gray;
+}
+.form button {
+  display: block;
+  width: 5rem;
+  height: 2rem;
+  border: none;
+  background-color: gray;
+  color: wheat;
+  border-radius: 2rem;
+  margin: 2rem auto;
+}
+.form button:hover {
+  box-shadow: 0 0 1rem gray;
+  cursor: pointer;
+}

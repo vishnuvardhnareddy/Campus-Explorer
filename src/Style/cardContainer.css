@@ -1,0 +1,10 @@
+.seemorebtn {
+  height: 3rem;
+  width: 10rem;
+  display: block;
+  margin: auto;
+  border-radius: 2rem;
+  background-color: gray;
+  color: white;
+  font-size: larger;
+}
